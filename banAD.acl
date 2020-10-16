@@ -341,26 +341,6 @@
 (^|\.)mshow\.fang\.com$
 (^|\.)tongji\.home\.soufun\.com$
 
-# Google
-(^|\.)admob\.com$
-(^|\.)ads\.gmodules\.com$
-(^|\.)ads\.google\.com$
-(^|\.)adservice\.google\.com$
-(^|\.)afd\.l\.google\.com$
-(^|\.)badad\.googleplex\.com$
-(^|\.)csi\.gstatic\.com$
-(^|\.)doubleclick(\.com|\.net)$
-(^|\.)google-analytics\.com$
-(^|\.)googleadservices\.com$
-(^|\.)googleadsserving\.cn$
-(^|\.)googlecommerce\.com$
-(^|\.)googlesyndication\.com$
-(^|\.)mobileads\.google\.com$
-(^|\.)pagead-tpc\.l\.google\.com$
-(^|\.)pagead\.google\.com$
-(^|\.)pagead\.l\.google\.com$
-(^|\.)service\.urchin\.com$
-
 # JD
 (^|\.)(c-nfa|img-x|jrclick|jzt|policy)\.jd\.com$
 (^|\.)ads\.union\.jd\.com$
@@ -1694,58 +1674,6 @@
 (^|\.)helpshift\.com$
 (^|\.)paragon\.com$
 (^|\.)unrealengine\.com$
-
-# Google China
-(^|\.)265\.com$
-(^|\.)2mdn\.net$
-(^|\.)alt[0-8]-mtalk\.google\.com$
-(^|\.)app-measurement\.com$
-(^|\.)beacons\.gcp\.gvt2\.com$
-(^|\.)beacons\.gvt2\.com$
-(^|\.)beacons3\.gvt2\.com$
-(^|\.)c\.android\.clients\.google\.com$
-(^|\.)cache\.pack\.google\.com$
-(^|\.)checkin\.gstatic\.com$
-(^|\.)clickserve\.dartsearch\.net$
-(^|\.)clientservices\.googleapis\.com$
-(^|\.)connectivitycheck\.gstatic\.com$
-(^|\.)crl\.pki\.goog$
-(^|\.)dl\.google\.com$
-(^|\.)dl\.l\.google\.com$
-(^|\.)fonts\.googleapis\.com$
-(^|\.)fonts\.gstatic\.com$
-(^|\.)googletagmanager\.com$
-(^|\.)googletagservices\.com$
-(^|\.)gtm\.oasisfeng\.com$
-(^|\.)imasdk\.googleapis\.com$
-(^|\.)kh\.google\.com$
-(^|\.)khm\.google\.com$
-(^|\.)khm\.googleapis\.com$
-(^|\.)khm0\.google\.com$
-(^|\.)khm0\.googleapis\.com$
-(^|\.)khm1\.google\.com$
-(^|\.)khm1\.googleapis\.com$
-(^|\.)khm2\.google\.com$
-(^|\.)khm2\.googleapis\.com$
-(^|\.)khm3\.google\.com$
-(^|\.)khm3\.googleapis\.com$
-(^|\.)khmdb\.google\.com$
-(^|\.)khmdb\.googleapis\.com$
-(^|\.)mtalk\.google\.com$
-(^|\.)ocsp\.pki\.goog$
-(^|\.)recaptcha\.net$
-(^|\.)redirector\.gvt1\.com$
-(^|\.)safebrowsing-cache\.google\.com$
-(^|\.)safebrowsing\.googleapis\.com$
-(^|\.)settings\.crashlytics\.com$
-(^|\.)ssl-google-analytics\.l\.google\.com$
-(^|\.)ssl\.gstatic\.com$
-(^|\.)toolbarqueries\.google\.com$
-(^|\.)tools\.google\.com$
-(^|\.)tools\.l\.google\.com$
-(^|\.)update\.googleapis\.com$
-(^|\.)www-googletagmanager\.l\.google\.com$
-(^|\.)www\.gstatic\.com$
 
 # HuaWei
 (^|\.)dbankcdn\.com$
